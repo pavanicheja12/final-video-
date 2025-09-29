@@ -1,2 +1,2 @@
-# final-video-
-video explanation of my project final output
+# final-ppt-
+ppt explanation of my project final output
